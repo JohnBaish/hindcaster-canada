@@ -1,0 +1,1154 @@
+{
+  "ranAt": "2026-10-25T18:20:25Z",
+  "day": "2026-10-24",
+  "lastYearDay": "2025-10-24",
+  "stations": {
+    "listed": 938,
+    "byProvider": {
+      "MSC": 572,
+      "DND": 9,
+      "NAV CANADA": 343,
+      "": 14
+    },
+    "byAutoMan": {
+      "MSC / AUTO": 572,
+      "DND / AUTO": 9,
+      "NAV CANADA / AUTO": 200,
+      "NAV CANADA / MAN": 143,
+      " / MAN": 14
+    },
+    "mscByProvince": {
+      "Newfoundland and Labrador": 32,
+      "Nova Scotia": 31,
+      "New Brunswick": 17,
+      "Prince Edward Island": 6,
+      "Yukon": 14,
+      "Quebec": 92,
+      "Nunavut": 33,
+      "British Columbia": 92,
+      "Alberta": 54,
+      "Northwest Territories": 32,
+      "Ontario": 79,
+      "Manitoba": 42,
+      "Saskatchewan": 46,
+      "": 2
+    }
+  },
+  "partnerStationsListed": 2030,
+  "climateStations": {
+    "count": 8435,
+    "withHourlyData": 1098,
+    "byZone": {
+      "PST": 1728,
+      "MST": 1680,
+      "CST": 1441,
+      "EST": 2605,
+      "AST": 665,
+      "NST": 298,
+      "none": 18
+    }
+  },
+  "hourSamples": [
+    {
+      "hourUtc": "2026-10-24T00:00:00Z",
+      "byProvider": {
+        "MSC": {
+          "readings": 858,
+          "minutely": 301,
+          "stations": 557
+        },
+        "ON-MNR-AFFES": {
+          "readings": 129,
+          "minutely": 0,
+          "stations": 129
+        },
+        "SK-SPSA": {
+          "readings": 74,
+          "minutely": 0,
+          "stations": 74
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "BC-FOR": {
+          "readings": 7,
+          "minutely": 0,
+          "stations": 7
+        },
+        "NAV CANADA": {
+          "readings": 311,
+          "minutely": 0,
+          "stations": 309
+        },
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "none": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "ON-MTO": {
+          "readings": 16,
+          "minutely": 0,
+          "stations": 16
+        },
+        "YT-DCS-WFM": {
+          "readings": 22,
+          "minutely": 0,
+          "stations": 22
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        }
+      },
+      "mscReadings": 858,
+      "mscNonMinutely": 557,
+      "mscStations": 557,
+      "readingsPerStationDistribution": {
+        "1": 557
+      },
+      "fill": {
+        "air_temp": 553,
+        "max_air_temp_pst1hr": 553,
+        "min_air_temp_pst1hr": 553,
+        "avg_wnd_spd_10m_pst1hr": 543,
+        "avg_wnd_dir_10m_pst1hr": 543,
+        "max_wnd_spd_10m_pst1hr": 543,
+        "pcpn_amt_pst1hr": 508,
+        "rnfl_amt_pst1hr": 465,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 441
+      }
+    },
+    {
+      "hourUtc": "2026-10-24T03:00:00Z",
+      "byProvider": {
+        "MSC": {
+          "readings": 858,
+          "minutely": 300,
+          "stations": 558
+        },
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "NAV CANADA": {
+          "readings": 281,
+          "minutely": 0,
+          "stations": 281
+        },
+        "ON-MNR-AFFES": {
+          "readings": 127,
+          "minutely": 0,
+          "stations": 127
+        },
+        "YT-DCS-WFM": {
+          "readings": 22,
+          "minutely": 0,
+          "stations": 22
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        },
+        "ON-MTO": {
+          "readings": 15,
+          "minutely": 0,
+          "stations": 15
+        },
+        "none": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "BC-FOR": {
+          "readings": 7,
+          "minutely": 0,
+          "stations": 7
+        },
+        "SK-SPSA": {
+          "readings": 74,
+          "minutely": 0,
+          "stations": 74
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        }
+      },
+      "mscReadings": 858,
+      "mscNonMinutely": 558,
+      "mscStations": 558,
+      "readingsPerStationDistribution": {
+        "1": 558
+      },
+      "fill": {
+        "air_temp": 554,
+        "max_air_temp_pst1hr": 554,
+        "min_air_temp_pst1hr": 554,
+        "avg_wnd_spd_10m_pst1hr": 544,
+        "avg_wnd_dir_10m_pst1hr": 544,
+        "max_wnd_spd_10m_pst1hr": 544,
+        "pcpn_amt_pst1hr": 506,
+        "rnfl_amt_pst1hr": 466,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 441
+      }
+    },
+    {
+      "hourUtc": "2026-10-24T06:00:00Z",
+      "byProvider": {
+        "MSC": {
+          "readings": 857,
+          "minutely": 299,
+          "stations": 558
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "BC-FOR": {
+          "readings": 7,
+          "minutely": 0,
+          "stations": 7
+        },
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "ON-MNR-AFFES": {
+          "readings": 128,
+          "minutely": 0,
+          "stations": 128
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "YT-DCS-WFM": {
+          "readings": 22,
+          "minutely": 0,
+          "stations": 22
+        },
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "ON-MTO": {
+          "readings": 15,
+          "minutely": 0,
+          "stations": 15
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "NAV CANADA": {
+          "readings": 198,
+          "minutely": 0,
+          "stations": 198
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "SK-SPSA": {
+          "readings": 74,
+          "minutely": 0,
+          "stations": 74
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        }
+      },
+      "mscReadings": 857,
+      "mscNonMinutely": 558,
+      "mscStations": 558,
+      "readingsPerStationDistribution": {
+        "1": 558
+      },
+      "fill": {
+        "air_temp": 554,
+        "max_air_temp_pst1hr": 554,
+        "min_air_temp_pst1hr": 554,
+        "avg_wnd_spd_10m_pst1hr": 544,
+        "avg_wnd_dir_10m_pst1hr": 544,
+        "max_wnd_spd_10m_pst1hr": 544,
+        "pcpn_amt_pst1hr": 503,
+        "rnfl_amt_pst1hr": 466,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 442
+      }
+    },
+    {
+      "hourUtc": "2026-10-24T09:00:00Z",
+      "byProvider": {
+        "NAV CANADA": {
+          "readings": 273,
+          "minutely": 0,
+          "stations": 272
+        },
+        "MSC": {
+          "readings": 857,
+          "minutely": 299,
+          "stations": 558
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "ON-MNR-AFFES": {
+          "readings": 127,
+          "minutely": 0,
+          "stations": 127
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "ON-MTO": {
+          "readings": 15,
+          "minutely": 0,
+          "stations": 15
+        },
+        "YT-DCS-WFM": {
+          "readings": 22,
+          "minutely": 0,
+          "stations": 22
+        },
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "none": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "BC-FOR": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "SK-SPSA": {
+          "readings": 74,
+          "minutely": 0,
+          "stations": 74
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        }
+      },
+      "mscReadings": 857,
+      "mscNonMinutely": 558,
+      "mscStations": 558,
+      "readingsPerStationDistribution": {
+        "1": 558
+      },
+      "fill": {
+        "air_temp": 554,
+        "max_air_temp_pst1hr": 554,
+        "min_air_temp_pst1hr": 554,
+        "avg_wnd_spd_10m_pst1hr": 544,
+        "avg_wnd_dir_10m_pst1hr": 544,
+        "max_wnd_spd_10m_pst1hr": 544,
+        "pcpn_amt_pst1hr": 504,
+        "rnfl_amt_pst1hr": 466,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 442
+      }
+    },
+    {
+      "hourUtc": "2026-10-24T12:00:00Z",
+      "byProvider": {
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "MSC": {
+          "readings": 859,
+          "minutely": 301,
+          "stations": 558
+        },
+        "NAV CANADA": {
+          "readings": 297,
+          "minutely": 0,
+          "stations": 296
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "ON-MNR-AFFES": {
+          "readings": 128,
+          "minutely": 0,
+          "stations": 128
+        },
+        "YT-DCS-WFM": {
+          "readings": 21,
+          "minutely": 0,
+          "stations": 21
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "ON-MTO": {
+          "readings": 14,
+          "minutely": 0,
+          "stations": 14
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "none": {
+          "readings": 5,
+          "minutely": 0,
+          "stations": 5
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        },
+        "SK-SPSA": {
+          "readings": 73,
+          "minutely": 0,
+          "stations": 73
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        },
+        "BC-FOR": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        }
+      },
+      "mscReadings": 859,
+      "mscNonMinutely": 558,
+      "mscStations": 558,
+      "readingsPerStationDistribution": {
+        "1": 558
+      },
+      "fill": {
+        "air_temp": 554,
+        "max_air_temp_pst1hr": 554,
+        "min_air_temp_pst1hr": 554,
+        "avg_wnd_spd_10m_pst1hr": 544,
+        "avg_wnd_dir_10m_pst1hr": 544,
+        "max_wnd_spd_10m_pst1hr": 544,
+        "pcpn_amt_pst1hr": 504,
+        "rnfl_amt_pst1hr": 466,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 442
+      }
+    },
+    {
+      "hourUtc": "2026-10-24T15:00:00Z",
+      "byProvider": {
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        },
+        "SK-SPSA": {
+          "readings": 74,
+          "minutely": 0,
+          "stations": 74
+        },
+        "MSC": {
+          "readings": 858,
+          "minutely": 301,
+          "stations": 557
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        },
+        "BC-FOR": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "NAV CANADA": {
+          "readings": 338,
+          "minutely": 0,
+          "stations": 334
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "ON-MNR-AFFES": {
+          "readings": 129,
+          "minutely": 0,
+          "stations": 129
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "YT-DCS-WFM": {
+          "readings": 22,
+          "minutely": 0,
+          "stations": 22
+        },
+        "none": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "ON-MTO": {
+          "readings": 15,
+          "minutely": 0,
+          "stations": 15
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        }
+      },
+      "mscReadings": 858,
+      "mscNonMinutely": 557,
+      "mscStations": 557,
+      "readingsPerStationDistribution": {
+        "1": 557
+      },
+      "fill": {
+        "air_temp": 553,
+        "max_air_temp_pst1hr": 553,
+        "min_air_temp_pst1hr": 553,
+        "avg_wnd_spd_10m_pst1hr": 543,
+        "avg_wnd_dir_10m_pst1hr": 543,
+        "max_wnd_spd_10m_pst1hr": 543,
+        "pcpn_amt_pst1hr": 508,
+        "rnfl_amt_pst1hr": 466,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 442
+      }
+    },
+    {
+      "hourUtc": "2026-10-24T18:00:00Z",
+      "byProvider": {
+        "MSC": {
+          "readings": 856,
+          "minutely": 300,
+          "stations": 556
+        },
+        "ON-MNR-AFFES": {
+          "readings": 128,
+          "minutely": 0,
+          "stations": 128
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "YT-DCS-WFM": {
+          "readings": 22,
+          "minutely": 0,
+          "stations": 22
+        },
+        "none": {
+          "readings": 5,
+          "minutely": 0,
+          "stations": 5
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "NAV CANADA": {
+          "readings": 333,
+          "minutely": 0,
+          "stations": 328
+        },
+        "ON-MTO": {
+          "readings": 15,
+          "minutely": 0,
+          "stations": 15
+        },
+        "SK-SPSA": {
+          "readings": 74,
+          "minutely": 0,
+          "stations": 74
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        },
+        "BC-FOR": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        }
+      },
+      "mscReadings": 856,
+      "mscNonMinutely": 556,
+      "mscStations": 556,
+      "readingsPerStationDistribution": {
+        "1": 556
+      },
+      "fill": {
+        "air_temp": 552,
+        "max_air_temp_pst1hr": 552,
+        "min_air_temp_pst1hr": 552,
+        "avg_wnd_spd_10m_pst1hr": 542,
+        "avg_wnd_dir_10m_pst1hr": 542,
+        "max_wnd_spd_10m_pst1hr": 542,
+        "pcpn_amt_pst1hr": 508,
+        "rnfl_amt_pst1hr": 465,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 440
+      }
+    },
+    {
+      "hourUtc": "2026-10-24T21:00:00Z",
+      "byProvider": {
+        "MSC": {
+          "readings": 859,
+          "minutely": 301,
+          "stations": 558
+        },
+        "DND": {
+          "readings": 13,
+          "minutely": 0,
+          "stations": 13
+        },
+        "NAV CANADA": {
+          "readings": 327,
+          "minutely": 0,
+          "stations": 326
+        },
+        "PC-NRMB": {
+          "readings": 42,
+          "minutely": 0,
+          "stations": 42
+        },
+        "YAA": {
+          "readings": 3,
+          "minutely": 0,
+          "stations": 3
+        },
+        "ON-MNR-AFFES": {
+          "readings": 127,
+          "minutely": 0,
+          "stations": 127
+        },
+        "AAFC": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "GNWT-ENR-FMD": {
+          "readings": 38,
+          "minutely": 0,
+          "stations": 38
+        },
+        "ON-MTO": {
+          "readings": 16,
+          "minutely": 0,
+          "stations": 16
+        },
+        "YT-DCS-WFM": {
+          "readings": 22,
+          "minutely": 0,
+          "stations": 22
+        },
+        "none": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "GRCA": {
+          "readings": 20,
+          "minutely": 0,
+          "stations": 20
+        },
+        "GNWT-ENR-WRD": {
+          "readings": 1,
+          "minutely": 0,
+          "stations": 1
+        },
+        "BC-MVRD": {
+          "readings": 4,
+          "minutely": 0,
+          "stations": 4
+        },
+        "SK-SPSA": {
+          "readings": 74,
+          "minutely": 0,
+          "stations": 74
+        },
+        "SK-SPSA-WSA": {
+          "readings": 11,
+          "minutely": 0,
+          "stations": 11
+        },
+        "RTA": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        },
+        "BC-FOR": {
+          "readings": 6,
+          "minutely": 0,
+          "stations": 6
+        }
+      },
+      "mscReadings": 859,
+      "mscNonMinutely": 558,
+      "mscStations": 558,
+      "readingsPerStationDistribution": {
+        "1": 558
+      },
+      "fill": {
+        "air_temp": 554,
+        "max_air_temp_pst1hr": 554,
+        "min_air_temp_pst1hr": 554,
+        "avg_wnd_spd_10m_pst1hr": 544,
+        "avg_wnd_dir_10m_pst1hr": 544,
+        "max_wnd_spd_10m_pst1hr": 544,
+        "pcpn_amt_pst1hr": 510,
+        "rnfl_amt_pst1hr": 465,
+        "prsnt_wx_1": 0,
+        "prsnt_wx_2": 0,
+        "tot_cld_amt": 0,
+        "vis": 0,
+        "avg_vis_pst10mts": 0,
+        "cld_amt_code": 0,
+        "cld_typ_1": 0,
+        "snw_dpth": 0,
+        "avg_snw_dpth_pst5mts": 440
+      }
+    }
+  ],
+  "providersSeenAcrossSamples": {
+    "MSC": 559,
+    "ON-MNR-AFFES": 129,
+    "SK-SPSA": 74,
+    "SK-SPSA-WSA": 11,
+    "RTA": 6,
+    "BC-FOR": 7,
+    "NAV CANADA": 349,
+    "DND": 13,
+    "AAFC": 1,
+    "PC-NRMB": 42,
+    "YAA": 3,
+    "none": 8,
+    "GNWT-ENR-FMD": 38,
+    "ON-MTO": 16,
+    "YT-DCS-WFM": 22,
+    "GNWT-ENR-WRD": 1,
+    "BC-MVRD": 4,
+    "GRCA": 20
+  },
+  "noticeTexts": {
+    "NAV CANADA: Observational data provided by NAV CANADA. All rights reserved.": 2358,
+    "ON-MNR-AFFES: Data provided by the Ontario Ministry of Natural Resources, Aviation, Forest Fire and Emergency Services Branc": 1023,
+    "SK-SPSA: Observational data provided by the Government of Saskatchewan: Public Safety Agency (SK-SPSA). All rights rese": 591,
+    "PC-NRMB: Observational data provided by the Government of Canada: Parks Canada Agency: Natural Resource Management Bran": 336,
+    "GNWT-ENR-FMD: Data provided by the Government of Northwest Territories: Department of Environment and Natural Resources, For": 304,
+    "YT-DCS-WFM: Observational data provided by the Government of Yukon: Department of Community Services, Wildland Fire Manage": 175,
+    "ON-MTO: Observational data provided by the Government of Ontario: Ministry of Transportation (ON-MTO). All rights rese": 121,
+    "SK-SPSA-WSA: Observational data provided by the Government of Saskatchewan: Public Safety Agency and Water Security Agency ": 88,
+    "BC-FOR: Observational data provided by the Government of British Columbia: Ministry of Forests (BC-FOR). All rights re": 51,
+    "DND: Observational data provided by DND. All rights reserved.": 48,
+    "BC-MVRD: Observational data provided by Metro Vancouver Regional District (BC-MVRD). All rights reserved. | Données d’o": 32,
+    "YAA: Observational data provided by Avalanche Canada (AvCan) with support from the Yukon Avalanche Association (YAA": 24
+  },
+  "mscFieldFillAcrossSamples": {
+    "nonMinutelyReadings": 4460,
+    "fill": {
+      "air_temp": 4428,
+      "max_air_temp_pst1hr": 4428,
+      "min_air_temp_pst1hr": 4428,
+      "avg_wnd_spd_10m_pst1hr": 4348,
+      "avg_wnd_dir_10m_pst1hr": 4348,
+      "max_wnd_spd_10m_pst1hr": 4348,
+      "pcpn_amt_pst1hr": 4051,
+      "rnfl_amt_pst1hr": 3725,
+      "prsnt_wx_1": 0,
+      "prsnt_wx_2": 0,
+      "tot_cld_amt": 0,
+      "vis": 0,
+      "avg_vis_pst10mts": 0,
+      "cld_amt_code": 0,
+      "cld_typ_1": 0,
+      "snw_dpth": 0,
+      "avg_snw_dpth_pst5mts": 3530
+    }
+  },
+  "minutesAfterTheHourWhenProcessed": {
+    "readings": 4460,
+    "median": 2,
+    "p90": 8.6,
+    "p99": 37.5,
+    "slowest": 629.7
+  },
+  "weatherWordValues": {
+    "prsnt_wx_1": {},
+    "prsnt_wx_2": {},
+    "tot_cld_amt": {}
+  },
+  "mscReporters": {
+    "distinctAcrossSamples": 559,
+    "inStationList": 555,
+    "notInStationList": 4,
+    "listedButNeverSeen": 17,
+    "withClimateIdentifier": 559,
+    "withTimeZone": 556,
+    "byZone": {
+      "NST": 23,
+      "EST": 161,
+      "MST": 113,
+      "PST": 88,
+      "CST": 106,
+      "AST": 65,
+      "unknown": 3
+    }
+  },
+  "archive": {
+    "newestRecordUtc": "2026-10-25T07:00:00",
+    "mscReportersWithAClimateIdentifier": 559,
+    "yesterday": {
+      "utcDate": "2026-10-24",
+      "allRecords": 21039,
+      "allStations": 913,
+      "recordsForMscReporters": 13307,
+      "mscReportersCovered": 556,
+      "mscReportersWithTemperature": 550,
+      "fill": {
+        "TEMP": 13163,
+        "PRECIP_AMOUNT": 11863,
+        "WIND_SPEED": 12804
+      },
+      "weatherDescriptions": {
+        "NA": 13307
+      }
+    },
+    "yearAgo": {
+      "utcDate": "2025-10-24",
+      "allRecords": 21469,
+      "allStations": 935,
+      "recordsForMscReporters": 13271,
+      "mscReportersCovered": 554,
+      "mscReportersWithTemperature": 548,
+      "fill": {
+        "TEMP": 13123,
+        "PRECIP_AMOUNT": 11983,
+        "WIND_SPEED": 12634
+      },
+      "weatherDescriptions": {
+        "NA": 13271
+      }
+    }
+  },
+  "requests": {
+    "total": 80,
+    "retries": 0,
+    "droppedOrFailed": [],
+    "statuses": {
+      "200": 80
+    },
+    "medianSeconds": 0.33,
+    "slowestSeconds": 1.27,
+    "rateLimitHeaders": {},
+    "firstResponseHeaders": {
+      "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept, Authorization",
+      "access-control-allow-origin": "*",
+      "content-crs": "<http://www.opengis.net/def/crs/OGC/1.3/CRS84>",
+      "content-encoding": "gzip",
+      "content-language": "en-CA",
+      "content-type": "application/json",
+      "date": "Sun, 25 Oct 2026 18:20:25 GMT",
+      "server": "Apache",
+      "strict-transport-security": "max-age=63072000; preload, max-age=63072000; preload",
+      "transfer-encoding": "chunked",
+      "vary": "Accept-Encoding",
+      "x-powered-by": "pygeoapi 0.20.0"
+    }
+  }
+}

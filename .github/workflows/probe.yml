@@ -1,0 +1,35 @@
+name: Canada probe
+
+# Run workflow only (no schedule). Asks ECCC's GeoMet API about stations,
+# fields, weather words, request limits and the climate archive, and commits
+# the counts to data/probe/. No key is needed.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: probe
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - name: Run the probe
+        run: node scripts/probe.mjs
+      - name: Save the results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/probe
+          git commit -m "Probe: results $(date -u +'%Y-%m-%d %H:%M UTC')" || exit 0
+          git pull --rebase origin main
+          git push origin HEAD:main
